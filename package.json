@@ -1,0 +1,24 @@
+{
+  "name": "async-graph",
+  "version": "0.1.0",
+  "description": "Flexible functional async graph algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": "",
+  "keywords": [
+    "async",
+    "graph",
+    "node",
+    "vertex",
+    "edge",
+    "function",
+    "functional"
+  ],
+  "author": "spion <gorgi.kosev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.2.4"
+  }
+}
