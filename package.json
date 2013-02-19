@@ -1,7 +1,7 @@
 {
-  "name": "async-graph",
-  "version": "0.1.0",
-  "description": "Flexible functional async graph algorithms",
+  "name": "async-bfs",
+  "version": "0.1.1",
+  "description": "Flexible functional async breadth first search",
   "main": "index.js",
   "scripts": {
     "test": "nodeunit test"
@@ -11,6 +11,10 @@
     "async",
     "graph",
     "node",
+    "bfs",
+    "breadth",
+    "first",
+    "search",
     "vertex",
     "edge",
     "function",
@@ -20,5 +24,11 @@
   "license": "MIT",
   "dependencies": {
     "async": "~0.2.4"
-  }
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "13cefd0b5943f16b7f27113b2322ccd799dc4630",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
 }
