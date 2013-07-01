@@ -23,7 +23,7 @@
   "author": "spion <gorgi.kosev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "~0.2.4"
+    "async": "~0.2.9"
   },
   "readmeFilename": "README.md",
   "gitHead": "13cefd0b5943f16b7f27113b2322ccd799dc4630",
