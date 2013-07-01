@@ -1,6 +1,6 @@
 {
   "name": "async-bfs",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Flexible functional async breadth first search",
   "main": "index.js",
   "scripts": {
