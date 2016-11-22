@@ -8,7 +8,7 @@
 where
 
 * start - array of possible start positions
-* movefn - `function(node, callback)` - a function called to retreive nodes connected to the specified node
+* movefn - `function(depth, node, callback)` - a function called to retreive nodes connected to the specified node
   * callback should be called with the new nodes `callback(err, newNodes)`
 * goalfn - `function(node, callback)` - a function called to check if the node is a valid goal.
   * callback should be called with true or false `callback(err, true|false)`
